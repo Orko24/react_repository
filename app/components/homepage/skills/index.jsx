@@ -35,7 +35,7 @@ function Skills() {
               <GlowCard key={work_skill.id} identifier={`work_skill-${work_skill.id}`}>
                 <div className="p-3 relative text-white">
                   <Image
-                    src="/blur-23.svg"
+                    src="./blur-23.svg"
                     alt="Hero"
                     width={1080}
                     height={200}

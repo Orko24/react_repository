@@ -37,7 +37,7 @@ const Projects = () => {
               <GlowCard key={modified_project.id} identifier={`work_skill-${modified_project.id}`}>
                 <div className="p-3 relative text-white">
                   <Image
-                    src="/blur-23.svg"
+                    src="./blur-23.svg"
                     alt="Hero"
                     width={1080}
                     height={200}
