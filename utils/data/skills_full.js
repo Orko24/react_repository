@@ -5,7 +5,7 @@ export const work_skills = [
         duration: "Jan 2024-present",
         Title: "AI Consultant",
         Skills: 'Python, Golang , SQLite , PostgreSQL , GoogleBigQuery, Java, C++ , C , JavaScript, \
-        TypeScript, Dart, HTML, CSS,Prompt Engineering, LLM (Language Learning Model), Foundation Models, \
+        TypeScript,React, NextJS, Dart, HTML, CSS,Prompt Engineering, LLM (Language Learning Model), Foundation Models, \
         Database Engineering, Data Engineering, Software Quality Assurance,Software Development, Software Testing,\
         Machine Learning, Artificial Intelligence, ChatGPT, OpenAI,Generative AI , \
         Azure Data Studio, Pandas, PostgreSQL Integration, Natural Language Analysis, JSON, \
