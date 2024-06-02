@@ -3,13 +3,13 @@ export const experiences = [
     id: 0,
     title: 'Software Consultant',
     company: "ICE Process Management LLC",
-    duration: "(April 2024 to Present)"
+    duration: "(May 2024 to Present)"
   },
   {
     id: 1,
     title: 'Software & Artificial Intelligence Engineer',
     company: "ICE Process Management LLC",
-    duration: "(Jan 2024 to Present)"
+    duration: "(April 2024 to Present)"
   },
   {
     id: 2,
