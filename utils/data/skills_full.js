@@ -2,17 +2,18 @@ export const work_skills = [
     {
         id: 1,
         Workplace: "ICE Process Management LLC.",
-        duration: "April 2024-present",
+        duration: "May 2024-present",
         Title: "Software & Artificial Intelligence Engineer",
         Skills: 'SQLite, Python, NLP, LLM, Lang-Chain, Chroma DB, \
         SQL Alchemy, Web Application Design, Data Pipelines, OCR, \
         Artificial Intelligence, Vector Databases and Embedded Vector Databases, \
-        R.A.G systems, Chatbots, Pandas, NumPy ' , 
+        R.A.G systems, Chatbots, Pandas, NumPy, ChatGPT, \
+        Microsoft Co-pilot, Llama3, OpenAI ' , 
     },
     {
         id: 2,
         Workplace: "ICE Process Management LLC.",
-        duration: "May 2024-present",
+        duration: "April 2024-present",
         Title: "Software Consultant",
         Skills: 'Investment Analysis, \
         Private Equity Evaluation Analysis, software development design processes, \
