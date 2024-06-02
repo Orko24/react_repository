@@ -1,6 +1,26 @@
 export const work_skills = [
     {
         id: 1,
+        Workplace: "ICE Process Management LLC.",
+        duration: "April 2024-present",
+        Title: "Software & Artificial Intelligence Engineer",
+        Skills: 'SQLite, Python, NLP, LLM, Lang-Chain, Chroma DB, \
+        SQL Alchemy, Web Application Design, Data Pipelines, OCR, \
+        Artificial Intelligence, Vector Databases and Embedded Vector Databases, \
+        R.A.G systems, Chatbots, Pandas, NumPy ' , 
+    },
+    {
+        id: 2,
+        Workplace: "ICE Process Management LLC.",
+        duration: "April 2024-present",
+        Title: "Software Consultant",
+        Skills: 'Investment Analysis, \
+        Private Equity Evaluation Analysis, software development design processes, \
+        Investor Relations, Market Analysis, Business Strategy. ' , 
+    },
+
+    {
+        id: 3,
         Workplace: "ScaleAI",
         duration: "Jan 2024-present",
         Title: "AI Consultant",
@@ -12,7 +32,7 @@ export const work_skills = [
         PostgreSQL, Kaggle API integration, Hugging face API, PyTorch, Keras, TensorFlow', 
     },
     {
-        id: 2,
+        id: 4,
         Workplace: "IBM Startup Partner Program; Adamas Audio",
         duration: "June 2020 - Jan 2022",
         Title: "Lead Software Engineer and Software Architect",
@@ -23,7 +43,7 @@ export const work_skills = [
         Bash Script, Git, Cryptography, SSL, Cyber Security, Data Analysis, Data Science'
     },
     {
-        id: 3,
+        id: 5,
         Workplace: "Quant-connect",
         duration: "Jan 2022 - Jan 2024",
         Title: "Algorithmic Trader",
@@ -32,7 +52,7 @@ export const work_skills = [
         Sentiment Analysis, Data Analysis'
     },
     {
-        id: 4,
+        id: 6,
         Workplace: "Quant-connect",
         duration: "Jan 2022 - Jan 2024",
         Title: "Algorithmic Trader",
