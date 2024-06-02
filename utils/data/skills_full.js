@@ -12,7 +12,7 @@ export const work_skills = [
     {
         id: 2,
         Workplace: "ICE Process Management LLC.",
-        duration: "April 2024-present",
+        duration: "May 2024-present",
         Title: "Software Consultant",
         Skills: 'Investment Analysis, \
         Private Equity Evaluation Analysis, software development design processes, \
