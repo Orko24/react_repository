@@ -23,7 +23,7 @@ export const work_skills = [
     {
         id: 3,
         Workplace: "ScaleAI",
-        duration: "Jan 2024-present",
+        duration: "Jan 2024-June 2024",
         Title: "AI Consultant",
         Skills: 'Python, Golang , SQLite , PostgreSQL , GoogleBigQuery, Java, C++ , C , JavaScript, \
         TypeScript,React, NextJS, Dart, HTML, CSS,Prompt Engineering, LLM (Language Learning Model), Foundation Models, \

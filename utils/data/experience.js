@@ -15,7 +15,7 @@ export const experiences = [
     id: 2,
     title: 'AI Consultant',
     company: "Scale AI: RemoteTasks",
-    duration: "(Jan 2024 to Present)"
+    duration: "(Jan 2024 to June 2024)"
   },
   {
     id: 3,
