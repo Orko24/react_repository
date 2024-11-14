@@ -27,7 +27,7 @@ export const work_skills = [
     },
     {
         id: 3,
-        Workplace: "ICE Process Management LLC/ Bravura A",
+        Workplace: "ICE Process Management LLC/ Bravura AI",
         duration: "May 2024-present",
         Title: "Software & Artificial Intelligence Engineer",
         Skills: 'SQLite, Python, NLP, LLM, Lang-Chain, Chroma DB, \
@@ -38,7 +38,7 @@ export const work_skills = [
     },
     {
         id: 4,
-        Workplace: "ICE Process Management LLC.",
+        Workplace: "ICE Process Management LLC/ Bravura AI",
         duration: "April 2024-present",
         Title: "Software Consultant",
         Skills: 'Investment Analysis, \
