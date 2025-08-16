@@ -6,6 +6,8 @@ import Education from "./components/homepage/education";
 import Experience from "./components/homepage/experience";
 import HeroSection from "./components/homepage/hero-section";
 import Projects from "./components/homepage/projects";
+import LegacyProjects from "./components/homepage/legacy-projects";
+import Research from "./components/homepage/research";
 import Skills from "./components/homepage/skills";
 
 async function getData() {
@@ -32,6 +34,8 @@ export default async function Home() {
       <Experience />
       <Skills />
       <Projects />
+      <LegacyProjects />
+      <Research />
       <Education />
       {/* <Blog blogs={blogs} /> */}
       <ContactSection />
